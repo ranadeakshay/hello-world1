@@ -1,4 +1,4 @@
 # hello-world1
-The first repository
+The firOst repository
 
 Bamboozled!
